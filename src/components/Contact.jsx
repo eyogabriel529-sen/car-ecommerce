@@ -32,7 +32,7 @@ function Contact() {
             <p>Have questions? We'd love to hear from you!</p>
             <div className="contact-details">
               <p>📧 hello@carshopexample.com</p>
-              <p>📞 +1 (555) 123-4567</p>
+              <p>📞 +234 90 362 109 76</p>
               <p>📍 123 Auto Boulevard, Car City, CC 12345</p>
             </div>
           </div>
